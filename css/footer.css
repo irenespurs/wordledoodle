@@ -1,0 +1,20 @@
+.keyboard-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  gap: 20px;
+}
+.keyboard-column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 35px;
+  height: 35px;
+  font-size: 12px;
+  border-radius: 10px;
+  gap: 10px;
+}
+.Back-icon {
+  width: 25px;
+}

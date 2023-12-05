@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  justify-content: space-center;
+  align-items: center;
+  border-bottom: 1px solid black;
+}
+.header-title__img {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  padding: 20px 0 20px 0;
+  padding-left: 50px;
+  gap: 45px;
+}
+.header-title__letter {
+  font-weight: bold;
+}
